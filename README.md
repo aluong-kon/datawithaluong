@@ -96,7 +96,7 @@ I'm particularly interested in building solutions that address challenges in Kak
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [Aluong Yak Kon](https://www.linkedin.com/in/aluong-kon/)
-- 📧 **Email:** [decisionwiseanalytics@gmail.com](mailto:decisionwiseanalytics@gmail.com)
+- 📧 **Email:** [aluongyakkon23@gmail.com](mailto:aluongyakkon23@gmail.com)
 - 💻 **GitHub:** [@aluong-kon](https://github.com/aluong-kon)
 
 I'm always interested in connecting with developers, data professionals, founders, researchers, and organizations building meaningful solutions.
